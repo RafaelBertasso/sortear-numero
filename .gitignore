@@ -1,0 +1,3 @@
+# separar os arquivos que serão ignorados no projeto, cada um em uma linha diferente
+
+temp/
